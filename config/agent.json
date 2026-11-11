@@ -1,10 +1,10 @@
 {
-  "agent_id": "e9b920e6-ea22-4d23-ad72-f70338978619",
-  "name": "Kelly Travel Agent",
+  "agent_id": "4b857c0d-5a7a-4d6e-b78b-35a28897c31f",
+  "name": "Kate Travel Agent",
   "service_type": "travel",
   "description": "Offer best travel arrangements",
   "posted_price_usd": "2.50",
   "wallet_address": "",
   "token_address": "",
-  "token_symbol": "TEAM"
+  "token_symbol": "TAU"
 }
